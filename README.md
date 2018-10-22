@@ -1,0 +1,2 @@
+# MannaWallet
+Manna Wallet
